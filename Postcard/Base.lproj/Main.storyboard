@@ -28,7 +28,7 @@
             <objects>
                 <viewController id="hO7-0E-f9e" sceneMemberID="viewController">
                     <button key="view" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="l6W-qc-rj0">
-                        <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                        <rect key="frame" x="-23" y="-15" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <state key="normal" title="Button">
                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
