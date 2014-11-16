@@ -13,6 +13,8 @@
 		32E306861A18DC78002903BA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32E306851A18DC78002903BA /* Images.xcassets */; };
 		32E306891A18DC78002903BA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32E306871A18DC78002903BA /* LaunchScreen.xib */; };
 		32E306951A18DC78002903BA /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E306941A18DC78002903BA /* PostcardTests.swift */; };
+		32E3069F1A18E404002903BA /* rozkladEd.png in Resources */ = {isa = PBXBuildFile; fileRef = 32E3069E1A18E404002903BA /* rozkladEd.png */; };
+		32E306A11A18E8EF002903BA /* einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 32E306A01A18E8EF002903BA /* einstein.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		32E3068E1A18DC78002903BA /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		32E306931A18DC78002903BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		32E306941A18DC78002903BA /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		32E3069E1A18E404002903BA /* rozkladEd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rozkladEd.png; sourceTree = "<group>"; };
+		32E306A01A18E8EF002903BA /* einstein.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = einstein.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		32E3067C1A18DC78002903BA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				32E3069E1A18E404002903BA /* rozkladEd.png */,
+				32E306A01A18E8EF002903BA /* einstein.jpg */,
 				32E3067D1A18DC78002903BA /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32E306A11A18E8EF002903BA /* einstein.jpg in Resources */,
+				32E3069F1A18E404002903BA /* rozkladEd.png in Resources */,
 				32E306841A18DC78002903BA /* Main.storyboard in Resources */,
 				32E306891A18DC78002903BA /* LaunchScreen.xib in Resources */,
 				32E306861A18DC78002903BA /* Images.xcassets in Resources */,
